@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-sappa&show_icons=true&locale=en" alt="varun-sappa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-sappa&" alt="varun-sappa" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-sappa&" alt="varun-sappa" /></p>-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
