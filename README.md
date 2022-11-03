@@ -25,9 +25,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sappavarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sappavarun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varun sappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun sappa" height="30" width="40" /></a>
-<a href="https://kaggle.com/varun sappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="varun sappa" height="30" width="40" /></a>
-<a href="https://fb.com/varun sappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="varun sappa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/varun-sappa-39784a194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun sappa" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/varunsappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="varun sappa" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100075477240168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="varun sappa" height="30" width="40" /></a>
 <a href="https://instagram.com/the_varunsappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_varunsappa" height="30" width="40" /></a>
 </p>
 
