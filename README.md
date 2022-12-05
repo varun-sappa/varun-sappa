@@ -3,9 +3,9 @@
 
 <p align="left"><h>Glad to see you here!  &nbsp;  &nbsp;</h><img src="https://komarev.com/ghpvc/?username=varun-sappa&label=Profile%20views&color=0e75b6&style=flat" alt="varun-sappa" /> </p>
 
-- 👯 I’m looking to collaborate on **NLP and ML projects**
+- 👯 I’m looking to collaborate on **NLP and Robotics projects**
 
-- 💬 Ask me about **NLP, ML and competitive programming**
+- 💬 Ask me about **NLP, ML, Robotics and competitive programming**
 
 - 📫 How to reach me **links below ;p**
 
