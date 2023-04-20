@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **NLP and Robotics projects**
 
-- 💬 Ask me about **NLP, ML, Robotics and competitive programming**
+- 💬 Ask me about **NLP, ML and Robotics**
 
 - 📫 How to reach me **links below ;p**
 
