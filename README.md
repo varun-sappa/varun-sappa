@@ -1,15 +1,15 @@
 <h1 align="center">Hi There👋, I'm Varun Sappa</h1>
-<h3 align="center">A passionate developer from India</h3>
-
+<!-- <h3 align="center">A passionate developer from India</h3>
+ -->
 <p align="left"><h>Glad to see you here!  &nbsp;  &nbsp;</h><img src="https://komarev.com/ghpvc/?username=varun-sappa&label=Profile%20views&color=0e75b6&style=flat" alt="varun-sappa" /> </p>
 
-- 👯 I’m looking to collaborate on **NLP and Robotics projects**
+<!-- - 👯 I’m looking to collaborate on **NLP and Robotics projects** -->
 
-- 💬 Ask me about **NLP, ML and Robotics**
+- 💬 Ask me about **Machine Learning,Robotics and Consulting**
 
 - 📫 How to reach me **links below ;p**
 
-- ⚡ Fun fact **Apart from programming,I love playing games and clicking pictures!**
+- ⚡ Fun fact **I love playing games and clicking pictures!**
 
 
 
